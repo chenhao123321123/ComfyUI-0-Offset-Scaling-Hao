@@ -3,6 +3,7 @@
 
 ## 优势演示
 ### 局部重绘场景
+![重绘](https://github.com/chenhao123321123/ComfyUI-0-Offset-Scaling-Hao/blob/main/%E5%B1%80%E9%83%A8%E9%87%8D%E7%BB%98.png)
 
 
 ### 图片编辑场景
