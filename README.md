@@ -6,7 +6,7 @@
 
 
 ### 图片编辑场景
-https://github.com/chenhao123321123/ComfyUI-0-Offset-Scaling-Hao/raw/main/%E7%BC%96%E8%BE%911.png
+![编辑](https://github.com/chenhao123321123/ComfyUI-0-Offset-Scaling-Hao/raw/main/%E7%BC%96%E8%BE%911.png)
 
 ## 包含节点
 1. 图片智能缩放：等比例缩放 + 64对齐 + 居中，输出处理后图片、绘制遮罩、扩展遮罩、原图尺寸字符串（拼接）
